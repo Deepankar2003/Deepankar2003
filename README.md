@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend, Machine Learning**
 
-- 📫 How to reach me **deepankar2021@vitbhopal.ac.in**
+- 📫 How to reach me **deepankar.work.in@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
