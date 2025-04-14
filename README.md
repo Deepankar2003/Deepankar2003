@@ -39,8 +39,8 @@
 
 ### ✨ Latest Projects
 
-- 🚨 **Suraksha Setu** – Women's safety app using React & Firebase
-- 🌪 **DisasterConnect** – Real-time disaster management MERN app
+- 🚨 **Suraksha Setu** – Real-time disaster management MERN app & Firebase
+- 🌪 **Pixel Forge AI** – AI SaaS Image Generation
 - 🧠 **AI Resume Generator** – Resume builder powered by OpenAI
 
 ---
